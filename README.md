@@ -141,3 +141,6 @@ MIT – free to use, modify, and share. No warranty.
 ---
 
 *Written for a clean, professional GitHub profile – simple code, clear purpose.*
+
+Author: Miaad Shirvani
+Date: May 29, 2026
